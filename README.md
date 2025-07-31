@@ -95,10 +95,8 @@ Win_Hot_Restart/
 
 ## 🧑‍💻 作者 | Authors
 
-* 🧠 项目主创：[@OTREE](https://github.com/OTREE)
-  理科生、IC 设计师、独立工作室运营者。擅长软硬件集成、Python/C/3D设计等。
+* 🧠 项目主创：[@OTREE](https://github.com/YCTS-otree)
 * 🤖 协作者：ChatGPT (by OpenAI)
-  提供逻辑结构、命令设计、异常兼容建议等支持。🎩
 
 ---
 
